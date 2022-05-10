@@ -1,2 +1,2 @@
-# timeTable-
-Resizabl Time Table 
+# timeTable
+Resizable Time Table 
